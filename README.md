@@ -1,2 +1,7 @@
 # Note-Taking-Application
-Application to keep notes
+Web application to create, update and store notes.
+
+### TECH STACK
+- JAVASCRIPT
+- CSS
+- HTML
